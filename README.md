@@ -87,38 +87,38 @@
 # 29. Menampilkan Informasi Koneksi Aktif
 ![Menampilkan Informasi Koneksi Aktif](https://github.com/user-attachments/assets/0973117a-037c-43f7-bd5e-3b922c14e2b7)
 
-# 30. Menampilkan kalender
-![menampilkan kalender](https://github.com/user-attachments/assets/b1ff61f1-aa1b-4652-8af7-41d12ac9f9d6)
-
-# 31. Menampilkan nama host
+# 30. Menampilkan nama host
 ![menampilkan nama host](https://github.com/user-attachments/assets/8265681f-7034-4247-ac74-138b053f8db3)
 
-# 32. Menampilkan Pesan di Terminal
+# 31. Menampilkan Pesan di Terminal
 ![Menampilkan Pesan di Terminal](https://github.com/user-attachments/assets/23d98afa-d9ba-416b-b8e4-9eb5fde83172)
 
-# 33. Menampilkan riwayat login pengguna
+# 32. Menampilkan riwayat login pengguna
 ![menampilkan riwayat login pengguna](https://github.com/user-attachments/assets/e20545ac-eca5-4182-b85b-f8afedcb01be)
 
-# 34. Menampilkan Statistik Jaringan
+# 33. Menampilkan Statistik Jaringan
 ![Menampilkan Statistik Jaringan](https://github.com/user-attachments/assets/99e6fd44-bc4b-4d69-a5a7-993ad922d88c)
 
-# 35. Menampilkan Tanggal dan Waktu pada 10 Hari yang Lalu
+# 34. Menampilkan Tanggal dan Waktu pada 10 Hari yang Lalu
 ![Menampilkan Tanggal dan Waktu pada 10 Hari yang Lalu](https://github.com/user-attachments/assets/1b6e9722-573c-42c2-ac3e-642d05db465f)
 
-# 36. Menampilkan Tanggal dan Waktu pada Satu Minggu ke Depan
+# 35. Menampilkan Tanggal dan Waktu pada Satu Minggu ke Depan
 ![Menampilkan Tanggal dan Waktu pada Satu Minggu ke Depan](https://github.com/user-attachments/assets/5feb59d8-69d6-4fc3-aef7-86b0bf0cf4d6)
 
-# 37. Menampilkan Tanggal dan Waktu Saat Ini
+# 36. Menampilkan Tanggal dan Waktu Saat Ini
 ![Menampilkan Tanggal dan Waktu Saat Ini](https://github.com/user-attachments/assets/776cfe33-1083-42b0-82e3-84073b77564c)
 
-# 38. Menampilkan waktu sistem
+# 37. Menampilkan waktu sistem
 ![menampilkan waktu sistem](https://github.com/user-attachments/assets/9f3ad375-8680-4768-9be8-7a8e4afae187)
 
-# 39. Mencetak daftar proses dengan nama
+# 38. Mencetak daftar proses dengan nama
 ![mencetak daftar proses dengan nama](https://github.com/user-attachments/assets/8de0b3c5-c6be-405e-a1e9-3ddfd7c76009)
 
-# 40. mendownload ncal
+# 39. mendownload ncal
 ![mendownload kalender](https://github.com/user-attachments/assets/24f0932b-780a-4ea6-a85e-b53aa9d9f83b)
+
+# 40. Menampilkan kalender
+![menampilkan kalender](https://github.com/user-attachments/assets/b1ff61f1-aa1b-4652-8af7-41d12ac9f9d6)
 
 # 41. Mengganti Nama File
 ![Mengganti Nama File](https://github.com/user-attachments/assets/43724848-13cd-4bed-9af9-0d7fdeb7fec4)
